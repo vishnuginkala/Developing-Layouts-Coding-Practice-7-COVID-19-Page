@@ -1,0 +1,115 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.mn-heading {
+    color: #323f4b;
+    font-size: 17px;
+
+}
+
+.font-fam {
+    font-family: "Roboto";
+}
+
+.button {
+    background-color: #0967d2;
+    border-width: 0px;
+    height: 25px;
+    width: 100;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    font-size: 13px;
+    margin: 5px;
+}
+
+.mn-container {
+    padding: 15px;
+}
+
+.covid-card {
+    background-color: #0967d219;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.card-heading {
+    font-size: 15px;
+    color: #323f4b;
+}
+
+.card-description {
+    font-size: 12px;
+    color: #707070;
+    font-weight: 500;
+
+}
+
+.card-img {
+    height: 40px;
+    width: 40px;
+    margin-right: 15px;
+}
+
+.mid-heading {
+    font-size: 15px;
+    padding: 15px;
+}
+
+.mid-font {
+    font-size: 12px;
+    color: white;
+}
+
+.mid-image1 {
+    background-color: #3ebd93;
+    height: 90px;
+    width: 80px;
+    align-content: center;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.mid-image2 {
+    background-color: #e668a7;
+    height: 90px;
+    width: 80px;
+    align-content: center;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.mid-image3 {
+    background-color: #a368fc;
+    height: 90px;
+    width: 80px;
+    align-content: center;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.mid-cantainer {
+    padding: 10px;
+}
+
+.bottom-card {
+    background-color: #e12d3919;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.bottom-button {
+    background-color: #0967d2;
+    border-width: 0px;
+    height: 25px;
+    width: 100;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    font-size: 13px;
+    margin: 5px;
+    margin-left: 50px;
+}
